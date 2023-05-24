@@ -1,0 +1,125 @@
+a5380ee
+General questions
+
+2efcde9
+What is the output of the code: cout << "Hello World" ;
+option: Hello2
+option: World
+option dabfac4: Hello World
+option: None of the above
+
+2efcde9
+What is the output of the code: cout << "testing..." ;
+option: Testing...
+option dabfac4: testing...
+option: Testing
+option: None of the above
+
+2efcde9
+Which of the following data structures is best suited for implementing a LIFO?
+option: Queue
+option dabfac4: Stack
+option: Linked List
+option: Array
+
+b94d27b
+square of -2 is 4
+option dabfac4: True
+option: False
+
+b94d27b
+In C++, the "==" operator is used for assignment of a value to a variable.
+option: True
+option dabfac4: False
+
+b94d27b
+A function in C++ can return only one value at a time.
+option: True
+option dabfac4: False
+
+88f7ace
+What is Programming?
+
+a5380ee
+C++ programming
+
+2efcde9
+Which of the following operators is used to access the member variables and functions of an object in C++?
+option: * (asterisk)
+option: -> (arrow)
+option dabfac4: . (dot)
+option: :: (scope resolution)
+
+2efcde9
+Which of the following is an example of a unary operator in C++?
+option: +
+option: -
+option: *
+option dabfac4: !
+
+2efcde9
+Which of the following is a difference between a pointer and a reference in C++?
+option: A reference cannot be changed once it is initialized, while a pointer can be changed.
+option dabfac4: A pointer can be assigned a NULL value, while a reference cannot.
+option: A reference can be used to refer to an entire array, while a pointer can only point to a single element of an array.
+option: A pointer takes up less memory than a reference.
+
+b94d27b
+In C++, the size of a character variable is always 1 byte.
+option dabfac4: True
+option: False
+
+b94d27b
+A function in C++ must have a return type declared, even if the function does not return a value.
+option: True
+option dabfac4: False
+
+b94d27b
+In C++, a constructor is a member function of a class that is automatically called when an object of that class is created.
+option: True
+option dabfac4: False
+
+88f7ace
+What is C++?
+
+a5380ee
+Programming pointers
+
+2efcde9
+What is the value of a null pointer in C++?
+option dabfac4: 0
+option: 1
+option: -1
+option: undefined
+
+2efcde9
+What is the purpose of the delete keyword in C++?
+option: To deallocate dynamically allocated memory.
+option: To destroy an object.
+option: To release a lock on a resource.
+option dabfac4: Both A and B.
+
+2efcde9
+Which of the following is true about pointers in C++?
+option: A pointer is a variable that stores the address of another variable.
+option: A pointer cannot be assigned a value of 0 or NULL.
+option: A pointer to a derived class can be typecasted to a pointer to its base class.
+option dabfac4: All of the above.
+
+b94d27b
+In C++, we de-reffer pointer with * operator.
+option dabfac4: True
+option: False
+
+b94d27b
+A pointer is a variable that stores the value of another variable.
+option: False
+option dabfac4: True
+
+b94d27b
+A pointer can be used to access the value of a variable indirectly.
+option dabfac4: True
+option: False
+
+88f7ace
+Explain the use of this pointer in c++ programming

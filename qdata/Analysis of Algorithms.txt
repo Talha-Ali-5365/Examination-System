@@ -1,0 +1,124 @@
+a5380ee
+General questions
+
+2efcde9
+OOP stands for:
+option: objective only programming
+option: orientied object programming
+option dabfac4: object orientied programming
+option: None of the above
+
+2efcde9
+Using data member of one class in other is called:
+option: Aggregation
+option dabfac4: Composition
+option: Inheritence
+option: None of the above
+
+2efcde9
+option: Encapsulation is the process of combining data and functions into a single unit.
+option dabfac4: Encapsulation is the process of hiding implementation details and exposing only necessary information to the user.
+option: Encapsulation is the process of creating new instances of an object from its class.
+option: Encapsulation is the process of accessing data and functions of one object from another object.
+
+b94d27b
+We can not declare a pointer as data member of some class
+option dabfac4: False
+option: True
+
+b94d27b
+Abstraction is a technique used in object-oriented programming to represent complex data types as simpler, more manageable types.
+option: True
+option dabfac4: False
+
+b94d27b
+Polymorphism is a concept in object-oriented programming that allows objects of different classes to be treated as if they were objects of the same class.
+option: True
+option dabfac4: False
+
+88f7ace
+What is Composition?
+
+a5380ee
+Object Orientied Programming
+
+2efcde9
+Which of the following operators is used to access the member variables and functions of an object in C++?
+option: * (asterisk)
+option: -> (arrow)
+option dabfac4: . (dot)
+option: :: (scope resolution)
+
+2efcde9
+Which of the following statements best describes the concept of polymorphism in object-oriented programming?
+option: Polymorphism is the ability of an object to take on many forms.
+option: Polymorphism is the process of combining data and functions into a single unit.
+option dabfac4: Polymorphism is a concept in object-oriented programming that allows objects of different classes to be treated as if they were objects of the same class.
+option: Polymorphism is the process of accessing data and functions of one object from another object.
+
+2efcde9
+What is the main difference between abstract classes and interfaces in object-oriented programming?
+option: Abstract classes can have constructors, while interfaces cannot.
+option dabfac4: Abstract classes can have method implementations, while interfaces cannot.
+option: Abstract classes can be inherited by multiple subclasses, while interfaces can only be implemented by a class once.
+option: Abstract classes can be used to create objects, while interfaces cannot.
+
+b94d27b
+In C++, the Size of a class is data member dependent.
+option dabfac4: True
+option: False
+
+b94d27b
+Inheritance is a mechanism in object-oriented programming that allows a subclass to inherit properties and methods from its superclass.
+option: True
+option dabfac4: False
+
+b94d27b
+Encapsulation is the process of creating new instances of an object from its class in object-oriented programming.
+option: True
+option dabfac4: False
+
+88f7ace
+What is Aggregation?
+
+a5380ee
+Inheritence
+
+2efcde9
+Which of the following best describes inheritance in object-oriented programming?
+option dabfac4: A mechanism to allow a class to inherit properties and methods from another class
+option: A way to create new instances of a class
+option: A method for calling a function in another class
+option: None of the above
+
+2efcde9
+Which of the following is NOT a type of inheritance in object-oriented programming?
+option: Single inheritance
+option: Multiple inheritance
+option dabfac4: Dynamic inheritance
+option: None of the above
+
+2efcde9
+Which of the following statements best describes the concept of inheritance in object-oriented programming?
+option: Inheritance allows a subclass to access and use properties and methods of its superclass.
+option: Inheritance allows a subclass to create new instances of its superclass.
+option: Inheritance allows a superclass to access and use properties and methods of its subclass.
+option dabfac4: Inheritance allows a subclass to access and use properties and methods of its superclass.
+
+b94d27b
+Inheritance is a mechanism that allows a subclass to inherit properties and methods from its superclass.
+option: True
+option dabfac4: False
+
+b94d27b
+Inheritance allows a superclass to inherit properties and methods from its subclass.
+option: True
+option dabfac4: False
+
+b94d27b
+Inheritance is a feature of object-oriented programming that has no practical use in real-world applications.
+option: True
+option dabfac4: False
+
+88f7ace
+Explain the use of this pointer in c++ programming
